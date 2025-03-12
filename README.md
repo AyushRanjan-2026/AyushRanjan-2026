@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushRanjan-2026
-- 👀 I’m interested in Front-End Projects
-- 🌱 I’m currently learning DSA and Development
+- 👀 I’m interested in Back-End ,Cyber-Security and IOT projects.
+- 🌱 I’m currently learning DSA and Development.
 
 
 <!---
